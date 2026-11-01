@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.1
+
+- Move the public source, issues, documentation and VSIX downloads to david365-lee/jaewon-k8s-dashboard.
+- Keep the existing Marketplace extension ID and publisher.
+
 ## 0.3.0
 
 - Add Connect Local / Remote to the dashboard, sidebar and command palette.
