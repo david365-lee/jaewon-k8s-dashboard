@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.2
+
+- Align English, Japanese and Simplified Chinese READMEs with the Korean guide, including all three live screenshots, feature controls and connection recovery instructions.
+- Refresh the Marketplace and VS Code extension details with the documentation update and language links.
+
 ## 0.3.1
 
 - Move the public source, issues, documentation and VSIX downloads to david365-lee/jaewon-k8s-dashboard.

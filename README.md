@@ -11,6 +11,10 @@ Created and distributed for free by **jaewon**, a developer from South Korea. Av
 [Marketplace에서 설치](https://marketplace.visualstudio.com/items?itemName=jaewon-lee.jaewon-k8s-dashboard) · [VSIX 다운로드](https://github.com/david365-lee/jaewon-k8s-dashboard/releases/latest) · [프로젝트 안내](https://github.com/david365-lee/jaewon-k8s-dashboard#readme)
 
 
+## 0.3.2: 다국어 문서와 확장 상세페이지
+
+영어·일본어·중국어 README를 이 한글 문서와 같은 구성으로 갱신했습니다. 세 언어 모두 빠른 시작, 실제 화면 3장, 기능별 조작, 연결 복구, 설정과 분석 범위를 안내합니다. 위쪽 언어 링크에서 원하는 문서를 선택하세요.
+
 ## 0.3.0: 로컬·원격 클러스터와 StorageClass
 
 **Connect Local / Remote**에서 기존 kubeconfig 또는 원격 API 주소·Bearer Token/PEM 인증서·개인 키·CA로 연결합니다. 인증 정보는 VS Code SecretStorage에 저장합니다. StorageClass 생성·조회·YAML 편집·삭제·기본 클래스 변경, PV/PVC 스토리지 상세를 지원합니다. 원격 API에 접근할 수 있는 네트워크가 필요하며 SSH 터널은 자동 생성하지 않습니다.
